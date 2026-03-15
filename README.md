@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-[**View the Report**](https://henry-ai-biz.github.io/portfolio-forecast-demo/) <!-- update with your actual GitHub Pages URL -->
+[**View the Report**](https://henry-ai-biz.github.io/pest-control-forecast-demo/)
 
 ---
 
