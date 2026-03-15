@@ -1,6 +1,6 @@
 # Revenue & Expense Forecast Report — Portfolio Demo
 
-**AI-Powered Business Intelligence with Conformal Prediction Intervals**
+**AI-Powered Forecasting with Prediction Intervals**
 
 ---
 
